@@ -1,0 +1,159 @@
+@import url("cols1_print.css");
+@import url("tablec3.css");
+body {
+	margin: 0px;
+	left: 0px;
+}
+
+body * {
+	font-size: 12px;
+}
+
+
+h1#header1 {
+	margin: 5px;
+	left: 0px;
+	padding-top: 35px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: Impact, Arial, Helvetica, sans-serif;
+	font-size: 32px;
+	width: 1000px;
+/*	background-color:darkgreen;*/
+/*	background-image: url( ../image/campus.jpg) ;*/
+	background-image:  url(../image/campus.jpg) ;
+	background-repeat:  no-repeat ;
+	background-position:  center ;
+/*	border: 1px solid #ff0000; */
+}
+
+
+table.aabb {
+border-collapse:  collapse;
+border: 1px solid #ff6600;
+/* border: solid 2px #666666;*/
+ }
+
+ table.aabb * {
+border-collapse:  collapse;
+border: 1px solid #ff6600;
+ }
+
+table.aabb th {
+background-color: orange;
+border-collapse:  collapse;
+border: 1px solid #ff6600;
+ }
+
+
+table#bbb  {
+	border-collapse: collapse;
+}
+table#bbb td  {
+	border:thin solid green;
+}
+table#bbb th  {
+	border:thin solid blue;
+	background-color: yellow;
+
+}
+a {
+	text-decoration: none;
+}
+
+      span.TITLE1 {
+         font-weight: bold;
+         color: #fafad2;
+         background: #003200;
+         margin: 0;
+         padding: 0;
+         line-height: 1.5;
+         font-size: xx-large;
+      }
+
+.selDoc {
+		font-weight: bold;
+		color: #fafad2;
+		background: #003200;
+}
+
+.selTopic {
+		font-weight: bold;
+		color: #fafad2;
+		background: #003200;
+}
+/*
+h1 {
+	margin: 5px;
+	left: 0px;
+	padding-top: 35px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family: Impact, Arial, Helvetica, sans-serif;
+	font-size: 32px;
+	background-image: url( ../image/chubuCampus7.jpg) ;
+}
+*/
+/*
+body * {
+	margin: 0px;
+	left: 0px;
+}
+
+body * {
+	margin: 0px;
+	left: 0px;
+}
+
+
+
+#errmsg {
+	color: red ;
+}
+#msg1217 {
+	color: blue ;
+}
+
+button.send1 {
+	background : #005588;
+		color: blue ;
+
+	background: -moz-linear-gradient( #88AAAA, #004422);
+
+	margin : 32px 0px;
+	padding 16px 32px;
+	color: white;width 40%;
+	border-radius : 32px 0px 0px 32px;
+	box-shadow: 8px 12px 8px 0px black;
+	font-size: 16px;
+	font-family: "MS UI Gothic";
+}
+
+td.pointcol {
+	color: blue ;
+	width : 50px;
+	text-align: center;
+}
+
+span.evaldone1 {
+	background-color:red;
+}
+
+tr {
+	margin: 0px;
+	left: 0px;
+}
+
+tr * {
+	margin: 0px;
+	left: 0px;
+}
+
+tr.head2 *{
+		background : #007799;
+}
+*/
+
+

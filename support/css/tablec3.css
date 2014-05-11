@@ -1,0 +1,19 @@
+   table.c3            { fixed; border-collapse:collapse;}
+   table.c3 tr *       {
+      background: #FAFAFA;
+      border-bottom: 1px solid #CCC;
+      border-top:    1px solid #CCC;
+   }
+
+   table.c3 td         {border-right:  1px solid #CCC;border-left: 1px solid #CCC;}
+
+   table.c3 th {
+      color: #000;
+      background: #B0E0E0;
+      text-align: center;
+      padding: 0 0.5em;
+      border-bottom:1px solid #000;      border-top:0px;
+      border-right: 1px solid #000;      border-left:0px;
+      font-size: small;
+      line-height:2.1em;
+   }

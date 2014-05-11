@@ -1,0 +1,41 @@
+div#col_main {
+	margin:5px;
+	padding: 5px;
+	float:left;
+	height:600px;
+	width:700px;/*1550px;*/
+	/*border: 3px solid #0000ff;*/
+	border: 1px solid #8888ff;
+	background: #bbbbFF;
+	overflow: auto;
+/*	font-size: 48pt;*/
+}
+
+div#col_left {
+	display: none;
+}
+
+div#col_right {
+	display: none;
+
+}
+
+
+span.warn1 {
+  color: red;
+  font-weight: bolder;
+}
+#wrap1 {
+	width:1180px;/*2350px;*/
+/*	border: 1px solid #8888ff ;*/
+}
+
+
+.guidance1 {
+		background: #9999FF;
+}
+
+
+
+
+
